@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: darkslateblue;
+}
+
+td {
+    background-color: white;
+    width: 6.375vw;
+    height: 6.375vw;
+    cursor: pointer;
+}
+
+table {
+    margin: auto;
+    vertical-align: middle;
+    border-spacing: 0;
+}
+
+.black-cell {
+    background-color: black;
+}
